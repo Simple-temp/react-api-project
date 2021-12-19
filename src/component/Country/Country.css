@@ -1,0 +1,19 @@
+.country
+{
+    background-color: rgb(241, 241, 241);
+}
+.country img
+{
+    width:90px;
+    height:auto;
+}
+.btn
+{
+    margin-left:20px;
+}
+.country 
+{
+    border:1px solid #00c7ec;
+    padding:6px;
+    margin:8px;
+}

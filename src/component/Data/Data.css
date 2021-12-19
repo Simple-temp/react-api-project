@@ -1,0 +1,22 @@
+.data span {
+    margin-right:20px;
+}
+.data img 
+{
+    margin:10px 0 20px 0;
+}
+small 
+{
+    margin-left:20px;
+}
+.data 
+{
+    border:1px solid #00c7ec;
+    padding:6px;
+    margin:8px;
+}
+.data img 
+{
+    width:40px;
+    height:auto;
+}
