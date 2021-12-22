@@ -9,6 +9,7 @@ function App() {
   const [country, setCountry] = useState([]);
   const [cart, setCart] = useState([]);
   const [add, setAdd] = useState([]);
+  const [remove, setRemove] = useState([]);
 
   useEffect(() => {
         fetch(`https://restcountries.com/v3.1/all`)
